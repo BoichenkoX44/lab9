@@ -1,0 +1,9 @@
+E:\laba 9\laba 9\bin\Debug\laba 9.exe.config
+E:\laba 9\laba 9\bin\Debug\laba 9.exe
+E:\laba 9\laba 9\bin\Debug\laba 9.pdb
+E:\laba 9\laba 9\obj\Debug\laba 9.csprojResolveAssemblyReference.cache
+E:\laba 9\laba 9\obj\Debug\Lab9.fMain.resources
+E:\laba 9\laba 9\obj\Debug\laba_9.Properties.Resources.resources
+E:\laba 9\laba 9\obj\Debug\laba 9.csproj.GenerateResource.Cache
+E:\laba 9\laba 9\obj\Debug\laba 9.exe
+E:\laba 9\laba 9\obj\Debug\laba 9.pdb
